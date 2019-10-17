@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://prod.bidule.com:8000/api'
+  apiUrl: 'http://staging.bidule.com:8000/api'
 };
